@@ -1,16 +1,47 @@
-## Hi there 👋
+Hi 👋 I'm Suthan T
 
-<!--
-**SuthanThangamuthu/SuthanThangamuthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Developer | Spring Boot | REST APIs | JDBC | Hibernate | Spring | MySQL | J2EE | JSP / JSON / JPA
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+🎨 Frontend ---->
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript (Basics)
+
+💻 Backend ---->
+- ☕ Java
+- 🌱 Spring Boot
+- 🧩 Spring Data JPA
+- 🗄️ MySQL
+- 🔗 REST APIs
+
+🗄️ Database ---->
+-🐬 MySQL – Relational database, CRUD operations, schema design
+
+🔧 Tools & Others ---->
+- 🧰 Maven
+- 🐙 Git & GitHub
+- 📮 Postman
+- 💻 Eclipse IDE
+
+🎨 UI / UX ---->
+- 🧠 UI/UX Basics – User-friendly layouts & flows
+- 🎯 Wireframing – Simple page structure planning
+- 📱 Responsive Design – Mobile-friendly layouts
+
+---
+
+📌 Projects ---->
+----> **Employee CRUD REST API** <----
+  - Spring Boot, JPA, MySQL
+  - RESTful APIs with CRUD operations
+  - Validation & Exception Handling
+
+---
+
+📫 Contact ---->
+- GitHub: https://github.com/SuthanThangamuthu
+
